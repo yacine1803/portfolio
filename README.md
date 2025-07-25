@@ -23,5 +23,5 @@ Ce portfolio présente mes projets :
 ---
 
 ## 📫 Contact
-- **Email** : yacine.dev@example.com  
+- **Email** : yacinegueye1803@gmail.com 
 - **GitHub** : [github.com/yacine-dev](https://github.com/yacine1803)
